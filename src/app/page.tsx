@@ -120,7 +120,7 @@ export default function Home() {
       </section>
 
       {/* USP */}
-      <section className="sec" aria-labelledby="usp-h" style={{ background: "linear-gradient(180deg, transparent, rgba(26,63,184,.12), transparent)" }}>
+      <section className="sec usp-sec" aria-labelledby="usp-h">
         <div className="wrap">
           <div className="eyebrow">Our USP</div>
           <h2 id="usp-h" className="serif h2" data-split style={{ margin: "16px 0 20px", maxWidth: "18ch" }}>From First Bite to <span className="gold">Forever Love!</span></h2>

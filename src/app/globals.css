@@ -9,7 +9,7 @@
   --gold: #d4af37;
   --gold-2: #f3dc8c;
   --gold-3: #a8841c;
-  --yellow: #ffd60a;
+  --yellow: #ffed00;
   --ivory: #f8f2e2;
   --ink: #e9ecf8;
   --mute: #9aa6cf;
@@ -99,7 +99,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 /* ---------- preloader ---------- */
 .pre { position: fixed; inset: 0; z-index: 10000; background: var(--navy-950); display: grid; place-items: center; }
 .pre-in { display: grid; justify-items: center; gap: 26px; }
-.pre img { width: clamp(150px, 22vw, 240px); filter: drop-shadow(0 0 40px rgba(255, 214, 10, 0.35)); }
+.pre img { width: clamp(150px, 22vw, 240px); filter: drop-shadow(0 0 40px rgba(255, 237, 0, 0.35)); }
 .pre-bar { width: clamp(160px, 24vw, 260px); height: 2px; background: rgba(212, 175, 55, 0.2); overflow: hidden; }
 .pre-bar i { display: block; height: 100%; width: 100%; background: linear-gradient(90deg, var(--gold-3), var(--gold-2)); transform: scaleX(0); transform-origin: left; }
 .pre-t { font-size: 11px; letter-spacing: 0.42em; text-transform: uppercase; color: var(--gold-2); }
@@ -111,7 +111,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .hdr-in { display: flex; align-items: center; justify-content: space-between; gap: 24px; height: 84px; }
 .hdr.solid .hdr-in { height: 70px; transition: height 0.5s var(--ease); }
 .logo { display: block; flex: none; }
-.logo img { height: 52px; width: auto; transition: height 0.4s var(--ease); filter: drop-shadow(0 4px 18px rgba(255, 214, 10, 0.3)); }
+.logo img { height: 52px; width: auto; transition: height 0.4s var(--ease); filter: drop-shadow(0 4px 18px rgba(255, 237, 0, 0.3)); }
 .hdr.solid .logo img { height: 44px; }
 .nav { display: flex; gap: clamp(18px, 2.4vw, 40px); }
 .nav a { position: relative; font-size: 12.5px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink); padding: 8px 0; }
@@ -440,3 +440,31 @@ select.fld option { background: var(--navy-900); }
 @keyframes fx2 { to { transform: translate3d(-8vw, -4vw, 0) scale(1.12); } }
 @keyframes fx3 { 0% { transform: translate3d(0, 0, 0) skewX(-18deg); opacity: 0; } 20% { opacity: 1; } 80% { opacity: 1; } 100% { transform: translate3d(190vw, 0, 0) skewX(-18deg); opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .hero-fx i { animation: none; } }
+
+/* Brand yellow accents (logo yellow) — small touches alongside royal blue + gold */
+.eyebrow::after { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 12px 2px rgba(255, 237, 0, 0.55); }
+.mq-t svg { fill: var(--yellow); }
+.cursor::before { background: var(--yellow); }
+.dish:hover { box-shadow: inset 0 0 0 1px var(--yellow), 0 40px 90px -30px rgba(255, 237, 0, 0.3); }
+.hero-stats b, .stat b { text-shadow: 0 0 28px rgba(255, 237, 0, 0.25); }
+.btn:not(.ghost):not(.blue):hover { box-shadow: 0 16px 56px -10px rgba(255, 237, 0, 0.65); }
+.btn.ghost:hover { box-shadow: inset 0 0 0 1px var(--yellow); color: var(--yellow); }
+::selection { background: var(--yellow); color: #0a1440; }
+
+/* Old-site yellow (#ffed00 / cream #fffeed) — used on just two sections: ticker + USP */
+.mq { background: var(--yellow); border-block: 0; }
+.mq-t span { -webkit-text-stroke: 1px #0b1f6e; color: transparent; }
+.mq-t span:nth-child(even) { color: #0b1f6e; -webkit-text-stroke: 0; }
+.mq-t svg { fill: #0b1f6e; }
+.usp-sec { background: #fffeed; color: #0b1f6e; }
+.usp-sec .eyebrow { color: #0b1f6e; }
+.usp-sec .eyebrow::before { background: linear-gradient(90deg, #0b1f6e, transparent); }
+.usp-sec .eyebrow::after { background: #0b1f6e; box-shadow: none; }
+.usp-sec h2, .usp-sec h3 { color: #0b1f6e; }
+.usp-sec .gold, .usp-sec .gold .sp > i { background: none; -webkit-text-fill-color: #1a3fb8; color: #1a3fb8; }
+.usp-sec .lead, .usp-sec p { color: #2a3566; }
+.usp-sec .usp-c { background: #fff; box-shadow: inset 0 0 0 1px rgba(11, 31, 110, 0.12), 0 18px 50px -28px rgba(11, 31, 110, 0.35); }
+.usp-sec .usp-c:hover { box-shadow: inset 0 0 0 1.5px #1a3fb8, 0 30px 70px -30px rgba(26, 63, 184, 0.45); }
+.usp-sec .usp-c img { filter: drop-shadow(0 14px 14px rgba(11, 31, 110, 0.25)); }
+.usp-sec .usp-c .n { -webkit-text-stroke: 1px rgba(11, 31, 110, 0.14); }
+.usp-sec .usp-c .shine { display: none; }

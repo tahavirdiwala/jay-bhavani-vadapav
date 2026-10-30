@@ -91,7 +91,7 @@ export default function HeroScene() {
     })();
 
     /* halo rings + wireframe orb */
-    const halo = new THREE.Mesh(new THREE.TorusGeometry(R, 0.045, 12, 180), new THREE.MeshBasicMaterial({ color: 0xffe08a })); halo.rotation.x = Math.PI / 2; ring.add(halo);
+    const halo = new THREE.Mesh(new THREE.TorusGeometry(R, 0.045, 12, 180), new THREE.MeshBasicMaterial({ color: 0xffed00 })); halo.rotation.x = Math.PI / 2; ring.add(halo);
     const halo2 = new THREE.Mesh(new THREE.TorusGeometry(R * 0.72, 0.03, 12, 160), new THREE.MeshBasicMaterial({ color: 0x5b86ff })); halo2.rotation.x = Math.PI / 2; ring.add(halo2);
     const orb = new THREE.Mesh(new THREE.IcosahedronGeometry(1.15, 2), new THREE.MeshBasicMaterial({ color: 0xffd45c, wireframe: true, transparent: true, opacity: 0.85 })); ring.add(orb);
 
