@@ -1,0 +1,2849 @@
+{
+"menu": [
+{
+"slug": "beverages",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Butter Milk",
+"img": "/img/products/beverages/butter_milk.webp"
+},
+{
+"name": "Plain Lassi",
+"img": "/img/products/beverages/plain_lassi.webp"
+},
+{
+"name": "Kaju Anjir Milkshake",
+"img": "/img/products/beverages/kaju_anjir_milkshake.webp"
+},
+{
+"name": "Dry Fruit Milkshake",
+"img": "/img/products/beverages/dry_fruit_milkshake.webp"
+},
+{
+"name": "Jamun Shots",
+"img": "/img/products/beverages/jamun_shots.webp"
+}
+],
+"label": "Beverages"
+},
+{
+"slug": "bread-slices",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Butter Slice",
+"img": "/img/products/bread_slices/butter_slice.webp"
+},
+{
+"name": "Jam Slice",
+"img": "/img/products/bread_slices/jam_slice.webp"
+},
+{
+"name": "Chutney Slice",
+"img": "/img/products/bread_slices/chatni_slice.webp"
+},
+{
+"name": "Sing Slice",
+"img": "/img/products/bread_slices/sing_slice.webp"
+},
+{
+"name": "Chocolate Slice",
+"img": "/img/products/bread_slices/chocolate_slice.webp"
+}
+],
+"label": "Bread Slices"
+},
+{
+"slug": "burgers",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vegetable Burger",
+"img": "/img/products/burgers/vegetable_burger.webp"
+},
+{
+"name": "Aloo Tikki Burger With Fries",
+"img": "/img/products/burgers/aloo_tikki_burger_with_fries.webp"
+},
+{
+"name": "Vegetable Gourmet Burger With Fries",
+"img": "/img/products/burgers/vegetable_gourmet_burger_with_fries.webp"
+},
+{
+"name": "Tandoori Paneer Burger With Fries",
+"img": "/img/products/burgers/tandoori_paneer_burger_with_fries.webp"
+}
+],
+"label": "Burgers"
+},
+{
+"slug": "chat",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Bhel",
+"img": "/img/products/chat/bhel.webp"
+},
+{
+"name": "Jain Bhel",
+"img": "/img/products/chat/jain_bhel.webp"
+},
+{
+"name": "Sev Puri",
+"img": "/img/products/chat/sev_puri.webp"
+},
+{
+"name": "Jain Sev Puri",
+"img": "/img/products/chat/jain_sev_puri.webp"
+},
+{
+"name": "Panipuri",
+"img": "/img/products/chat/panipuri.webp"
+},
+{
+"name": "Dahi Puri",
+"img": "/img/products/chat/dahi_puri.webp"
+}
+],
+"label": "Chat"
+},
+{
+"slug": "cheesy-paratha-wraps",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vada Cheese Wrap",
+"img": "/img/products/cheesy_paratha_wraps/vada_cheese_wrap.webp"
+},
+{
+"name": "Aloo Tikki Wrap",
+"img": "/img/products/cheesy_paratha_wraps/aloo_tikki_wrap.webp"
+},
+{
+"name": "Mexican Wrap",
+"img": "/img/products/cheesy_paratha_wraps/mexican_wrap.webp"
+},
+{
+"name": "Cheese Blast Wrap",
+"img": "/img/products/cheesy_paratha_wraps/cheese_blast_wrap.webp"
+},
+{
+"name": "Tandoori Paneer Wrap",
+"img": "/img/products/cheesy_paratha_wraps/tandoori_paneer_wrap.webp"
+}
+],
+"label": "Cheesy Paratha Wraps"
+},
+{
+"slug": "chinese",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Paneer Chilly Gravy",
+"img": "/img/products/chinese/paneer_chilly_gravy.webp"
+},
+{
+"name": "Paneer Chilly Dry",
+"img": "/img/products/chinese/paneer_chilly_dry.webp"
+},
+{
+"name": "Veg Hakka Noodles",
+"img": "/img/products/chinese/veg_hakka_noodles.webp"
+},
+{
+"name": "Veg Schezwan Noodles",
+"img": "/img/products/chinese/veg_schezwan_noodles.webp"
+},
+{
+"name": "Manchurian Fried Rice",
+"img": "/img/products/chinese/manchurian_fried_rice.webp"
+},
+{
+"name": "Schezwan Fried Rice",
+"img": "/img/products/chinese/schezwan_fried_rice.webp"
+},
+{
+"name": "Veg Fried Rice",
+"img": "/img/products/chinese/veg_fried_rice.webp"
+},
+{
+"name": "Manchurian Noodles",
+"img": "/img/products/chinese/manchurian_noodles.webp"
+},
+{
+"name": "Chinese Bhel",
+"img": "/img/products/chinese/chinese_bhel.webp"
+},
+{
+"name": "Manchurian Gravy",
+"img": "/img/products/chinese/manchurian_gravy.webp"
+},
+{
+"name": "Paneer Manchurian Gravy",
+"img": "/img/products/chinese/paneer_manchurian_gravy.webp"
+},
+{
+"name": "Paneer Manchurian Dry",
+"img": "/img/products/chinese/paneer_manchurian_dry.webp"
+}
+],
+"label": "Chinese"
+},
+{
+"slug": "chole-kulcha",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Chole Kulcha",
+"img": "/img/products/chole_kulcha/chole_kulcha.webp"
+}
+],
+"label": "Chole Kulcha"
+},
+{
+"slug": "cold-coffee",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Classic Cold Coffee",
+"img": "/img/products/cold_coffee/classic_cold_coffee.webp"
+},
+{
+"name": "Double Shot Cold Coffee",
+"img": "/img/products/cold_coffee/double_shot_cold_coffee.webp"
+},
+{
+"name": "Caramel Cold Coffee",
+"img": "/img/products/cold_coffee/caramel_cold_coffee.webp"
+},
+{
+"name": "Irish Cold Coffee",
+"img": "/img/products/cold_coffee/irish_cold_coffee.webp"
+},
+{
+"name": "Hazelnut Cold Coffee",
+"img": "/img/products/cold_coffee/hazelnut_cold_coffee.webp"
+}
+],
+"label": "Cold Coffee"
+},
+{
+"slug": "dabeli",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Dabeli",
+"img": "/img/products/dabeli/dabeli.webp"
+},
+{
+"name": "Butter Dabeli",
+"img": "/img/products/dabeli/butter_dabeli.webp"
+},
+{
+"name": "Cheese Dabeli",
+"img": "/img/products/dabeli/cheese_dabeli.webp"
+}
+],
+"label": "Dabeli"
+},
+{
+"slug": "dessert",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Brownie With Ice Cream",
+"img": "/img/products/dessert/brownie_with_ice_cream.webp"
+}
+],
+"label": "Dessert"
+},
+{
+"slug": "excotic-vadapav",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Cheese Vadapav",
+"img": "/img/products/excotic_vadapav/cheese_vadapav.webp"
+},
+{
+"name": "Peri Peri Vadapav",
+"img": "/img/products/excotic_vadapav/peri_peri_vadapav.webp"
+},
+{
+"name": "Butter Vadapav",
+"img": "/img/products/excotic_vadapav/makhani_vadapav.webp"
+},
+{
+"name": "Schezwan Vadapav",
+"img": "/img/products/excotic_vadapav/schezwan_vadapav.webp"
+},
+{
+"name": "Tandoori Vadapav",
+"img": "/img/products/excotic_vadapav/tandoori_vadapav.webp"
+},
+{
+"name": "Tandoori Cheese Vadapav",
+"img": "/img/products/excotic_vadapav/tandoori_cheese_vadapav.webp"
+},
+{
+"name": "Cheese Burst Vadapav",
+"img": "/img/products/excotic_vadapav/cheese_burst_vadapav.webp"
+},
+{
+"name": "Cheesy Herbs Vadapav",
+"img": "/img/products/excotic_vadapav/cheesy_herbs_vadapav.webp"
+},
+{
+"name": "Spicy Tangy Vadapav",
+"img": "/img/products/excotic_vadapav/spicy_tangy_vadapav.webp"
+}
+],
+"label": "Exotic Vadapav"
+},
+{
+"slug": "french-fries",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "French Fries",
+"img": "/img/products/french_fries/french_fries.webp"
+},
+{
+"name": "Peri-peri French Fries",
+"img": "/img/products/french_fries/peri_peri_french_fries.webp"
+},
+{
+"name": "Peri-peri French Fries with Dip",
+"img": "/img/products/french_fries/peri_peri_french_fries_with_dip.webp"
+},
+{
+"name": "Cheesy French Fries",
+"img": "/img/products/french_fries/cheesy_french_fries.webp"
+}
+],
+"label": "French Fries"
+},
+{
+"slug": "fresh-juice",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Mosambi Juice",
+"img": "/img/products/fresh_juice/mosambi_juice.webp"
+},
+{
+"name": "Pineapple Juice",
+"img": "/img/products/fresh_juice/pineapple_juice.webp"
+},
+{
+"name": "Ganga Jamuna Juice",
+"img": "/img/products/fresh_juice/ganga_jamuna_juice.webp"
+},
+{
+"name": "Lemon Juice",
+"img": "/img/products/fresh_juice/lemon_juice.webp"
+},
+{
+"name": "Mixed Fruit Juice",
+"img": "/img/products/fresh_juice/mixed_fruit_juice.webp"
+},
+{
+"name": "Water Melon Juice",
+"img": "/img/products/fresh_juice/water_melon_juice.webp"
+}
+],
+"label": "Fresh Juice"
+},
+{
+"slug": "homemade-pasta",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Tangy Arrabiata",
+"img": "/img/products/homemade_pasta/tangy_arrabiata.webp"
+},
+{
+"name": "Homemade Alfredo",
+"img": "/img/products/homemade_pasta/homemade_alfredo.webp"
+},
+{
+"name": "Mix Sauce Pasta",
+"img": "/img/products/homemade_pasta/mix_sauce_pasta.webp"
+}
+],
+"label": "Homemade Pasta"
+},
+{
+"slug": "hot-coffee",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Black Coffee",
+"img": "/img/products/hot_coffee/black_coffee.webp"
+},
+{
+"name": "Café Latte",
+"img": "/img/products/hot_coffee/cafe_latte.webp"
+},
+{
+"name": "Hot Chocolate",
+"img": "/img/products/hot_coffee/hot_chocolate.webp"
+},
+{
+"name": "Café Mocha",
+"img": "/img/products/hot_coffee/cafe_mocha.webp"
+},
+{
+"name": "Cappuccino",
+"img": "/img/products/hot_coffee/cappuccino.webp"
+}
+],
+"label": "Hot Coffee"
+},
+{
+"slug": "hot-dog-burger",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vegetable Burger",
+"img": "/img/products/hot_dog_burger/vegetable_burger.webp"
+},
+{
+"name": "Crunchy Burger",
+"img": "/img/products/hot_dog_burger/crunchy_burger.webp"
+},
+{
+"name": "Vegetable Hot Dog",
+"img": "/img/products/hot_dog_burger/vegetable_hot_dog.webp"
+}
+],
+"label": "Hot Dog/ Burger"
+},
+{
+"slug": "indian-meal",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Chole Bhature",
+"img": "/img/products/indian_meal/chole_bhature.webp"
+},
+{
+"name": "Rajma Masala with Paratha",
+"img": "/img/products/indian_meal/rajma_masala_with_paratha.webp"
+},
+{
+"name": "Dal Makhani With Paratha",
+"img": "/img/products/indian_meal/dal_makhani_with_paratha.webp"
+},
+{
+"name": "Paneer Tikka with Paratha",
+"img": "/img/products/indian_meal/paneer_tikka_with_paratha.webp"
+}
+],
+"label": "Indian Meal"
+},
+{
+"slug": "maggie",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vegetable Maggie",
+"img": "/img/products/maggi/vegetable_maggi.webp"
+},
+{
+"name": "Cheese Vegetable Maggie",
+"img": "/img/products/maggi/cheese_vegetable_maggi.webp"
+},
+{
+"name": "Butter Vegetable Maggie",
+"img": "/img/products/maggi/butter_vegetable_maggi.webp"
+}
+],
+"label": "Maggie"
+},
+{
+"slug": "maskabun",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Jam Maskabun",
+"img": "/img/products/maskabun/jam_muskabun.webp"
+},
+{
+"name": "Butter Maskabun",
+"img": "/img/products/maskabun/butter_muskabun.webp"
+},
+{
+"name": "Chutney Maskabun",
+"img": "/img/products/maskabun/chutney_muskabun.webp"
+},
+{
+"name": "Chocolate Maskabun",
+"img": "/img/products/maskabun/chocolate_muskabun.webp"
+}
+],
+"label": "Maskabun"
+},
+{
+"slug": "milk-shakes",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Kesar Pista Milkshake",
+"img": "/img/products/milk_shakes/kesar_pista_milkshake.webp"
+},
+{
+"name": "Shahi Gulab Milkshake",
+"img": "/img/products/milk_shakes/shahi_gulab_milkshake.webp"
+},
+{
+"name": "Pineapple Milkshake",
+"img": "/img/products/milk_shakes/pineapple_milkshake.webp"
+},
+{
+"name": "Mango Milkshake",
+"img": "/img/products/milk_shakes/mango_milkshake.webp"
+},
+{
+"name": "Banana Milkshake",
+"img": "/img/products/milk_shakes/banana_milkshake.webp"
+},
+{
+"name": "Kesariya Thandai Milkshake",
+"img": "/img/products/milk_shakes/kesariya_thandai_milkshake.webp"
+},
+{
+"name": "Chikoo Milkshake",
+"img": "/img/products/milk_shakes/chikoo_milkshake.webp"
+},
+{
+"name": "Strawberry Milkshake",
+"img": "/img/products/milk_shakes/strawberry_milkshake.webp"
+},
+{
+"name": "Butter Scotch Milkshake",
+"img": "/img/products/milk_shakes/butter_scotch_milkshake.webp"
+},
+{
+"name": "Cold Coffee",
+"img": "/img/products/milk_shakes/cold_coffee.webp"
+},
+{
+"name": "Chocolate Milkshake",
+"img": "/img/products/milk_shakes/chocolate_milkshake.webp"
+}
+],
+"label": "Milk Shakes"
+},
+{
+"slug": "pav-bhaji",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Bhaji Pav",
+"img": "/img/products/pav_bhaji/bhaji_pav.webp"
+},
+{
+"name": "Masala Pav",
+"img": "/img/products/pav_bhaji/masala_pav.webp"
+},
+{
+"name": "Cheese Pav Bhaji",
+"img": "/img/products/pav_bhaji/cheese_pav_bhaji.webp"
+},
+{
+"name": "Butter Pav Bhaji",
+"img": "/img/products/pav_bhaji/butter_pav_bhaji.webp"
+}
+],
+"label": "Pav Bhaji"
+},
+{
+"slug": "pizza",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Italian Pizza",
+"img": "/img/products/pizza/italian_pizza.webp"
+},
+{
+"name": "Jain Italian Pizza",
+"img": "/img/products/pizza/jain_italian_pizza.webp"
+},
+{
+"name": "Mini Pizza",
+"img": "/img/products/pizza/mini_pizza.webp"
+},
+{
+"name": "Jain Mini Pizza",
+"img": "/img/products/pizza/jain_mini_pizza.webp"
+},
+{
+"name": "Italian Vegetable Pizza",
+"img": "/img/products/pizza/italian_vegetable_pizza.webp"
+},
+{
+"name": "Italian Double Cheese Pizza",
+"img": "/img/products/pizza/italian_double_cheese_pizza.webp"
+},
+{
+"name": "Italian Cheese Baked Pizza",
+"img": "/img/products/pizza/italian_cheese_baked_pizza.webp"
+},
+{
+"name": "Chilli Garlic Pizza",
+"img": "/img/products/pizza/chilli_garlic_pizza.webp"
+},
+{
+"name": "Mexican Pizza",
+"img": "/img/products/pizza/mexican_pizza.webp"
+},
+{
+"name": "Traditional Margherita Farm Fresh",
+"img": "/img/products/pizza/traditional_margherita_farm_fresh.webp"
+},
+{
+"name": "Farm Fresh",
+"img": "/img/products/pizza/farm_fresh.webp"
+},
+{
+"name": "Mexican Punch",
+"img": "/img/products/pizza/mexican_punch.webp"
+},
+{
+"name": "Tandoori Paneer",
+"img": "/img/products/pizza/tandoori_paneer.webp"
+},
+{
+"name": "JBV Special 4 Cheese",
+"img": "/img/products/pizza/jbv_special_4_cheese.webp"
+},
+{
+"name": "JBV Italian Indian Style Pizza",
+"img": "/img/products/pizza/jbv_italian_indian_style_pizza.webp"
+},
+{
+"name": "Cheese garlic Bread",
+"img": "/img/products/pizza/cheese_garlic_bread.webp"
+}
+],
+"label": "Pizza"
+},
+{
+"slug": "puff",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vegetable Puff",
+"img": "/img/products/puff/vegetable_puff.webp"
+}
+],
+"label": "Puff"
+},
+{
+"slug": "pulav",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Pulav",
+"img": "/img/products/pulav/pulav.webp"
+}
+],
+"label": "Pulav"
+},
+{
+"slug": "rice-bowl",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Chole Rice Bowl",
+"img": "/img/products/rice_bowl/chole_rice_bowl.webp"
+},
+{
+"name": "Tava Pulav with Raita",
+"img": "/img/products/rice_bowl/tava_pulav_with_raita.webp"
+},
+{
+"name": "Rajma Rice Bowl",
+"img": "/img/products/rice_bowl/rajma_rice_bowl.webp"
+},
+{
+"name": "Dal Makhani Rice Bowl",
+"img": "/img/products/rice_bowl/dal_makhani_rice_bowl.webp"
+},
+{
+"name": "Mexican Rice Bowl",
+"img": "/img/products/rice_bowl/mexican_rice_bowl.webp"
+},
+{
+"name": "Paneer Tikka Rice Bowl",
+"img": "/img/products/rice_bowl/paneer_tikka_rice_bowl.webp"
+}
+],
+"label": "Rice Bowl"
+},
+{
+"slug": "rolls",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vegetable Roll",
+"img": "/img/products/roll/vegetable_roll.webp"
+},
+{
+"name": "Cheese Roll",
+"img": "/img/products/roll/cheese_roll.webp"
+},
+{
+"name": "Cheese Vegetable Roll",
+"img": "/img/products/roll/cheese_vegetable_roll.webp"
+},
+{
+"name": "Cheese Garlic Baked Roll",
+"img": "/img/products/roll/cheese_garlic_baked_roll.webp"
+}
+],
+"label": "Rolls"
+},
+{
+"slug": "sandwich",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "JB CTC",
+"img": "/img/products/sandwich/jb_ctc.webp"
+},
+{
+"name": "Jain JB CTC",
+"img": "/img/products/sandwich/jain_jb_ctc.webp"
+},
+{
+"name": "Chutney Sandwich",
+"img": "/img/products/sandwich/chatni_sandwich.webp"
+},
+{
+"name": "Jam Sandwich",
+"img": "/img/products/sandwich/jam_sandwich.webp"
+},
+{
+"name": "Aloo Mutter Sandwich",
+"img": "/img/products/sandwich/aloo_mutter_sandwich.webp"
+},
+{
+"name": "Aloo Mutter Cheese Sandwich",
+"img": "/img/products/sandwich/aloo_mutter_cheese_sandwich.webp"
+},
+{
+"name": "Vegetable Sandwich",
+"img": "/img/products/sandwich/vegetable_sandwich.webp"
+},
+{
+"name": "Vegetable Cheese Sandwich",
+"img": "/img/products/sandwich/vegetable_cheese_sandwich.webp"
+},
+{
+"name": "Cheese Sandwich",
+"img": "/img/products/sandwich/cheese_sandwich.webp"
+},
+{
+"name": "Cheese Garlic Sandwich",
+"img": "/img/products/sandwich/cheese_garlic_sandwich.webp"
+},
+{
+"name": "Mexican Sandwich",
+"img": "/img/products/sandwich/mexican_sandwich.webp"
+},
+{
+"name": "Cheese Chilli Garlic Sandwich",
+"img": "/img/products/sandwich/cheese_chilli_garlic_sandwich.webp"
+},
+{
+"name": "Club Grill Sandwich (2 Slices)",
+"img": "/img/products/sandwich/club_grill_sandwich_2_slices.webp"
+},
+{
+"name": "Club Grill Sandwich (3 Slices)",
+"img": "/img/products/sandwich/club_grill_sandwich_3_slices.webp"
+},
+{
+"name": "Chocolate Sandwich",
+"img": "/img/products/sandwich/chocolate_sandwich.webp"
+},
+{
+"name": "Bread Butter",
+"img": "/img/products/sandwich/bread_butter.webp"
+},
+{
+"name": "3 In 1 Sandwich",
+"img": "/img/products/sandwich/3_in_1_sandwich.webp"
+},
+{
+"name": "Tandoori Paneer Grill",
+"img": "/img/products/sandwich/tandoori_paneer_grill.webp"
+},
+{
+"name": "Cheese Chutney Sandwich",
+"img": "/img/products/sandwich/cheese_chutney_sandwich.webp"
+},
+{
+"name": "Cheese Jam Sandwich",
+"img": "/img/products/sandwich/cheese_jam_sandwich.webp"
+},
+{
+"name": "Cheese Chocolate Sandwich",
+"img": "/img/products/sandwich/cheese_chocolate_sandwich.webp"
+},
+{
+"name": "Cheese Chilly Garlic Sandwich",
+"img": "/img/products/sandwich/cheese_chilly_garlic_sandwich.webp"
+}
+],
+"label": "Sandwich"
+},
+{
+"slug": "south-indian",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Plain Dosa",
+"img": "/img/products/south_indian/plain_dosa.webp"
+},
+{
+"name": "Bhaji Dosa",
+"img": "/img/products/south_indian/bhaji_dosa.webp"
+},
+{
+"name": "Masala Dosa",
+"img": "/img/products/south_indian/masala_dosa.webp"
+},
+{
+"name": "Paper Plain Dosa",
+"img": "/img/products/south_indian/paper_plain_dosa.webp"
+},
+{
+"name": "Paper Masala Dosa",
+"img": "/img/products/south_indian/paper_masala_dosa.webp"
+},
+{
+"name": "Mysore Plain Dosa",
+"img": "/img/products/south_indian/mysore_plain_dosa.webp"
+},
+{
+"name": "Plain Uttapam",
+"img": "/img/products/south_indian/plain_uttapam.webp"
+},
+{
+"name": "Tomato Uttaраm",
+"img": "/img/products/south_indian/tomato_uttapam.webp"
+},
+{
+"name": "Onion Uttapam",
+"img": "/img/products/south_indian/onion_uttapam.webp"
+},
+{
+"name": "Mixed Uttapam",
+"img": "/img/products/south_indian/mixed_uttapam.webp"
+},
+{
+"name": "Masala Uttapam",
+"img": "/img/products/south_indian/masala_uttapam.webp"
+},
+{
+"name": "Idli",
+"img": "/img/products/south_indian/idli.webp"
+},
+{
+"name": "Medu Vada",
+"img": "/img/products/south_indian/medu_vada.webp"
+}
+],
+"label": "South Indian"
+},
+{
+"slug": "tea",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Indian Masala Tea",
+"img": "/img/products/tea/indian_masala_tea.webp"
+},
+{
+"name": "Ginger Tea",
+"img": "/img/products/tea/ginger_tea.webp"
+},
+{
+"name": "Ginger Mint Tea",
+"img": "/img/products/tea/ginger_mint_tea.webp"
+}
+],
+"label": "Tea"
+},
+{
+"slug": "thick-shakes",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Oreo Cookie Shake",
+"img": "/img/products/thick_shakes/oero_cookie_shake.webp"
+},
+{
+"name": "Brownie Thick Shake",
+"img": "/img/products/thick_shakes/brownie_thick_shake.webp"
+},
+{
+"name": "Kit Kat Shake",
+"img": "/img/products/thick_shakes/kit_kat_shake.webp"
+}
+],
+"label": "Thick Shakes"
+},
+{
+"slug": "three-layer-sandwich",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Club Grill Sandwich",
+"img": "/img/products/three_layer_sandwich/club_grill_sandwich.webp"
+},
+{
+"name": "American Club Sandwich",
+"img": "/img/products/three_layer_sandwich/american_club_sandwich.webp"
+},
+{
+"name": "Junglee Paneer Sandwich",
+"img": "/img/products/three_layer_sandwich/junglee_paneer_sandwich.webp"
+},
+{
+"name": "Tandoori Paneer Sandwich",
+"img": "/img/products/three_layer_sandwich/tandoori_paneer_sandwich.webp"
+},
+{
+"name": "Cheese Burst Sandwich",
+"img": "/img/products/three_layer_sandwich/cheese_burst_sandwich.webp"
+}
+],
+"label": "Three Layer Sandwich"
+},
+{
+"slug": "vadapav",
+"title": "Jay Bhavani Vadapav",
+"items": [
+{
+"name": "Vadapav",
+"img": "/img/products/vadapav/vadapav.webp"
+},
+{
+"name": "Bombay Vadapav",
+"img": "/img/products/vadapav/bombay_vadapav.webp"
+},
+{
+"name": "Butter Vadapav",
+"img": "/img/products/vadapav/butter_vadapav.webp"
+}
+],
+"label": "Vadapav"
+}
+],
+"stores": [
+{
+"area": "GURGAON",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "G-01, Central Plaza Food Court, Kiosk No.2, Golf Course Road , Near Sec 53 Metro Station, Gurgaon 122002 Haryana",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/2HjCLtMiXcpNaMpd6"
+},
+{
+"area": "DELHI GURGAON-2",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "EG3, Rodeo Drive, South City 2, Sector 49 Gurugram 122018",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/fW768PkSzMWUSDum9"
+},
+{
+"area": "DELHI DWARKA",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "Kiosk No 2, Model Plaza, Sector 22 Dwarka, New Delhi, Delhi, 110077",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/UuQoggo6foHSTFac6"
+},
+{
+"area": "DELHI GURGAON SECTOR 90",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "G - 101 , Sapphire 90, village Nawada, Fatehpur Sector 90, Tehsil Manesar 122505",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "DELHI GURGAON-1",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "Shop No B-133 LGF, Super Mart Commercial Complex-1, Village Chakkarpur DLF City",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/X6LTJh3MbHgBw8119"
+},
+{
+"area": "DELHI TRI NAGAR",
+"city": "DELHI",
+"state": "DELHI NCR",
+"country": "INDIA",
+"address": "H NO 2089 PLOT NO 63 KHASRA NO 139 GROUND FLOOR GANESH PURA B STREET NO 162 TRI NAGAR NEAR JAIN STATIONERS DELHI 110035",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SHILAJ-2",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No.- Gf-6, Kaveri Soham Vistara, Near Shilaj Over Bridge, S.p. Ring Road, Shilaj, Ahmedabad, Gujarat-380059",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NMtiLh7H1HjccRfo7"
+},
+{
+"area": "MEHSANA (Palawasana)",
+"city": "MEHSANA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Palawasana Circle, Near Janpat Hotal, Palawasana, Dist. Mehsana, Gujarat-384003",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Eq1C1rVv1j65GsEP8"
+},
+{
+"area": "ISCON",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Ground floor, 7/B, Surmount, Nr. Vasupujya bungalows,Opp. Iscon, S. G. Highway, Ahmedabad",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/84JnbW1m6s4MhszeA"
+},
+{
+"area": "GOTA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No Gf-3 Satyamev Vista Road Gota Ahmedabad Gujarat",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/b7WgWPYiLBkweo7cA"
+},
+{
+"area": "DAHOD",
+"city": "DAHOD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "At-motilal Ni Chal, St. Road, Taluka Dahad Village-dahod Dist. Dahod Gujarat-399151",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/K5STcUo7scMWoss68"
+},
+{
+"area": "ZUNDAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO. 1 SHARAN CIRCLE, NEAR ZUNDAL CIRCLE, VILL. CHANDKHEDA, Ahmedabad, Gujarat-382421",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/XHmyuwjDX4wDDPqP8"
+},
+{
+"area": "HARIJ",
+"city": "HARIJ",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 22,23,24, BRAHMANI COMPLEX, OLD JAKATNAKA HIGWAY, VILLAGE HARIJ, DIST. PATAN-384240",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NFN3qKgq6LWyFMxZ6"
+},
+{
+"area": "SAFAL PARISAR (South Bopal)",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "8 Praharsh Highland , Safal Parisar Road, South Bopal, Ghuma, Ahmedabad, Gujarat - 58",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/HoDnRFGUPShv2hYS9"
+},
+{
+"area": "ISANPUR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "A2 RADHE KISHAN COMPLEX OPP TOPAZ RESTAURANT GOVINNDWADI ISANPUR",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/wzCX1qkt8Zp1Z5xp9"
+},
+{
+"area": "SANAND",
+"city": "SANAND",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop no.9, Akar Arcade, Sanand, near lohana Vadi, Ahmedabad, Gujarat 382110",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/UkSm7qMABsLhrYhu8"
+},
+{
+"area": "MEHSANA RADHANPUR ROAD",
+"city": "MEHSANA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SQUARE 1 COMPALEX MEHSANA RADHANPUR, MEHSANA , GUJARAT -384002",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/8yPAPVQ8NXziY2Xt9"
+},
+{
+"area": "VASTRAPUR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP 9 GF KALYAN TOWER B/H LAKE VIEW FLATS OPP ALPHA ONE MALL VASTRAPUR AHMEDABAD GUJARAT 380015",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/yotnPwgFNo6Ai6iVA"
+},
+{
+"area": "SHAMLAJI",
+"city": "SHAMLAJI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "KRISHNA FOOD COURT, SHOP NO.3 POST NAPDA JAGIR NEAR NAYARA PETROL PUMP, SHAMLAJI, TA. BHILODA, DIST. ARVALI GUJARAT-383355",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/MFnLK9Nc5pVsJDfd7"
+},
+{
+"area": "SUNDHAMATA",
+"city": "SUNDHAMATA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shri Chamunda Mata Trust Foothill Market Shop No. 21 Sundha Parvat Rajpura Post- Datlawas Tehsil Jaswantpura District Jalore Rajasthan -307515",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/MFnLK9Nc5pVsJDfd7"
+},
+{
+"area": "PATAN-1",
+"city": "PATAN",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G-11 mahadev tawain, opp. chitamani flats college road , patan",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/xCBQcwpy4mQxFEe46"
+},
+{
+"area": "PATAN-2",
+"city": "PATAN",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G/F Shop No. 61, To 63 Seven Eleven Complex, opp Shramjivi Society Near Reliance Petrol Pump Patan",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Az1gaGRLbEZ8zqJE6"
+},
+{
+"area": "SANAND-VIRAMGAM ROAD",
+"city": "SANAND",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "OPP SANAND ITI, G 1, OM ARCADE, VASNA IYAVA SANAND VIRAMGAM ROAD, SANAND, Ahmedabad, Gujarat, 382110",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/YhmDuZCJF1CiAxdq6"
+},
+{
+"area": "GURUKUL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop 10, Shilp Corner, Subhash Chowk, opp. Hanumanji Temple, Gurukul, Ahmedabad, Gujarat 380052",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/yz4ZS2Sd5odTiDkr8"
+},
+{
+"area": "ATAL BRIDGE",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "2ND FLOOR RIVERFRONT HOUSE, B/H. H.K. ARTS COLLEGE, BETWEEN GANDHI & NEHRU BRIDGE,PRAMUKH SWAMI MAHARAJ MARG RIVER-FRONT WEST AHMEDABAD GUJARAT-380009",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ptL8MWQK1svjhzyQ7"
+},
+{
+"area": "DHRANGADHRA",
+"city": "DHRANGADHRA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SIR JADEJA MALL, FMF, S NO.30/P1/P1/P2. VILL-RAJPAR TA-DHRANGADHRA DIST-SURENDRANAGAR GUJARAT-363030",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/M7Q4G55NzshNdhSM7"
+},
+{
+"area": "HALVAD",
+"city": "HALVAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 6,7 GF Vishwas Arcade,Village, Halvad, Taluka, Halvad Dist.,Morbi ,Gujarat-363330",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/dLmdv835B2FDVP5b8"
+},
+{
+"area": "DASADA",
+"city": "DASADA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "JAY AMBE PLAZA COMPLEX DASADA THREE RASTA. DISTRICT-SURENDRANAGAR, 382750",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/br52y4PXUAasw9g36"
+},
+{
+"area": "BAKROL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SARDAR PETRO STATION, NEAR TOLL PLAZA 200FT RING ROAD BAKROL, BADRABAD, DASKROI, Ahmedabad-382210",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/o18vASBYNzzo851a6"
+},
+{
+"area": "MOTA-CHILODA",
+"city": "CHILODA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SARVYE NO 526, OPP NAYRA PETROL PAMP,VILLAGE SHIHOLI MOTI, NEAR MOTA CHILODA GANDHINAGAR GUJARAT-38235",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/8jPq9PxasPiy1Rsr7"
+},
+{
+"area": "C G ROAD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Marwadi Plaza Nr GLS School C G Road, Navrangpura",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/MfUcsMMnZL86oewX6"
+},
+{
+"area": "MAKARBA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "A-12 GF SHIVAM PRIORY, OPP. TORRENT POWER HOUSE MAKRBA AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/653up9Hf3WEjA388A"
+},
+{
+"area": "THALTEJ",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 5 Ramkrupa Complex, Opposite Suryadeep Bunglow, Near Shaligram Plush, Thaltej-Shilaj Road Thaltej , Thaltej , DasKroi, Ahmedabad, Gujarat",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/fjooVwdQoCJwCQz56"
+},
+{
+"area": "SUPER CITY",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Block B Shop No GF18 Super City Arcade Village Santej Taluka Kalol, Dis- Gandhinagar Gujarat 380060",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/1Eftpc4VtvASATNRA"
+},
+{
+"area": "BODAKDEV",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Gf-A/5 SANKALP APARTMENT NR. PAKWAN CROSS ROAD ,BODAKDEV, Ahmedabad Gujarat-380054",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/g3teTvLbdkiebbxd7"
+},
+{
+"area": "SOUTH BOPAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "B-32, SoBo Center, Gala Gymkhana Road, South Bopal, Ahmedabad",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/keurgRgxJ33af87k9"
+},
+{
+"area": "GANDHINAGAR-KUDASAN",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 12,SHYAMSHUKAN COMPLEX,P.D.P.U. COLLEGE CIRCLE,KUDASAN,GANDHINAGAR",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/vPBGCk9JsiSWL8tb7"
+},
+{
+"area": "GANDHINAGAR-RAKSHA SHAKTI",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GROUND FLOOR SHOP-4, SANSKRUTI BY KAAVYARATNA, NEAR SHREE RANG PEARL, GIFT CITY ROAD, RANDESAN, GANDHINAGAR, GUJARAT 382009",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/pLkdoMCpQBaYt4WN7"
+},
+{
+"area": "GANDHINAGAR-RAYSAN",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "3 Sarthak Fortune Mall Raysan, Gandhinagar Gujarat -38242",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/dyhzSzShERB8rxpD8"
+},
+{
+"area": "DEHGAM",
+"city": "DEHGAM",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF SHOP NO,5 VEG BUNGLOWS AND VEG GREENS NEAR UMIYA MATA TEMPAL OPP SHRINATH BUNGLOWS DEHGAM GANDHINAGAR GUJARAT-382305",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ZH4tx8bJHJPWtH7k7"
+},
+{
+"area": "CHILODA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop no 4-5, Dever shine Nr Old Octroi Naka, N.H. No 8 , Nana",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ZH4tx8bJHJPWtH7k7"
+},
+{
+"area": "BAYAD",
+"city": "BAYAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G-A-11,C.A.PATEL COMPLEX,OPP BUS STAND TA- BAYAD DIst-ARVALLI GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/WD8yB4543zZE19Zr9"
+},
+{
+"area": "BAVLA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "S10-11, Ground Floor, Opp Psc, Near Bavla Bus Stand, Bavla, Ahmedabad, Gujarat, 382220",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/WR6LCEGo687j5mNs5"
+},
+{
+"area": "JAMNAGAR MALL",
+"city": "JAMNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "JCR Cinema Theba Chokdi, Cross Road Shop no D-10 Jamnagar -361001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/iruySXE5CBQLUhwUA"
+},
+{
+"area": "MORAIYA",
+"city": "MORAIYA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP GF-37 SUVAS PRAVESH NEAR RAILWAY STATION MORAIYA AHMEDABAD GUJARAT-382213",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/a5KnZo6ARR2wduTr6"
+},
+{
+"area": "OGNAJ",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO-1 HIRAMANI 61 S.P. RING ROAD OGNAJ AHMEDABAD GUJARAT-38006",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/DqCp6JwoVYbNdw359"
+},
+{
+"area": "VASNA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF/A/10,SILVER FLORA,NEAR KULIN TENAMENT,TORRENT POWER SUB STATION ROAD,VASNA,AHMEDABAD GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/fiZukug34nAsLAfc7"
+},
+{
+"area": "GHODASAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-9, EMPIRE HUB, NEAR KANSAS BUILDING, GHODASAR CROSS ROAD GHODASAR, AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/1BWL438RZ7gmJaz58"
+},
+{
+"area": "VANDEMATARAM",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 17 VANDEMATRAM ICON OPP. DEV RESIDENCY NEW S.G. ROAD GOTA VANDEMATRAM GOTA AHMEDABAD GUJARAT-382481",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/E5Fn9Bf5axZ27kJcA"
+},
+{
+"area": "MODASA-Jalaram",
+"city": "MODASA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP BLOCK NO-A,S-1, BAJAJI COMPLEX, MALPUR ROAD MODASA ARAVALI,GUJARAT-383315",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/zU834C8Je8sdJu7V6"
+},
+{
+"area": "SURENDRANAGAR",
+"city": "SURENDRANAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 10 KALPATRU BUSINESS CENTER OPP C U SHAH MEDICAL COLLAGE (TB HOSPITAL ROAD) DUDHREJ ROAD TA.WADHWAN DIS. SURENDRANAGAR, GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/LLAohGw2J3fVA2i77"
+},
+{
+"area": "MORBI-NEW",
+"city": "MORBI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 15 VAIDEHI PLAZA NEAR GOLDEN MARKET OPP. HANUMAN TEMPLE RAVAPAR GHUNDA ROAD MORBI GUJARAT-363642",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/b5pJA45FysiEWX7N7"
+},
+{
+"area": "KADI (Tanisq Complex)",
+"city": "KADI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "TANISHQ COMPLEX KADI,PANJARAPOAD KADI-CHATRAL ROAD,KADI",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/jLDDh46F6dnu3Lyc7"
+},
+{
+"area": "MUNCIPAL MARKET",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Muncipal Market, C G Road, AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/bxh69Y49Morq8JbKA"
+},
+{
+"area": "LAW GARDEN",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Ground Floor, Alfa Bazar, Opp. Law Garden, Navrangpura, Ahmedabad, Gujarat 380009",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/z6awak16VsrKYSRq6"
+},
+{
+"area": "ANANDNAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "19 G/F,SAHAJANAND PALACE,OPP.RAHUL TOWER,100 FEET RING ROAD, AHMEDABAD-380015",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/BpRc6BWgv2fdVhZz8"
+},
+{
+"area": "ANKUR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "4,BECHARDAS PAK,NARANPURA OPP.ANKUR COMPLEX,AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NnjRx7Sz9CJdNxBn9"
+},
+{
+"area": "APPLEWOOD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "B-17 APPLEWOOD GALLERIYA,NR SHANTIPURA CIRCLE ,SARDAR PATEL RING 200FT,RING ROAD,SOUTH BOPAL,AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "BHADAJ CIRCLE",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G-10,EARTH RETAIL COMPLEX NEAR SCIENCE CITY BHADAJ CIRCLE SP RING ROAD AHMEDABAD-380052 GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/EYzKrzjhfLMQ2zG77"
+},
+{
+"area": "BOPAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 14 SAMARPAN COMPLEX 132 FEET RING ROAD,BOPAL AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Ksyqx4BExoiyRftN6"
+},
+{
+"area": "GANDHINAGAR GIFT CITY",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "STALL NO 18 MAPLE99 FOOD COUNTY 55 ZONE5 GIFT CITY GANDHINAGAR GUJARAT382355",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4DNpbwm8wvn11LJT6"
+},
+{
+"area": "HIGH COURT",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-01 SATYAMEV/2 KARGIL PETROL PUMP, SOLA, AHMEDABAD-380061",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/fL4dc6av2qgH4ucc7"
+},
+{
+"area": "SANTEJ",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Plot No 2, Ambika Estate, Kothari Cross Road, Santej",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/raYPsXupR9ks6G9VA"
+},
+{
+"area": "SCIENCE CITY (CAFÉ)",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF- 2,SATYAMEV EMINENCE, B/S.SAPTAK BUNGALOWS, SCIENCE CITY ROAD, Gujart, Ahmedabad 380060",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/p2wk1u8VAWkremgV8"
+},
+{
+"area": "SHAYONA CITY",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO A/B-10 SHAYONA SARVOPARI SHAYONA CITY CHANAKYAPURI GHATLODIA AHMEDABAD Gujarat-380013",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/PUEifJiB8GWrJyw9A"
+},
+{
+"area": "SHYAMAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "9 JYOTI PLAZA NR MURLIDHAR DAIRY SHYAMAL CROSS ROAD,AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/QzaQNkCw8eNx8GQTA"
+},
+{
+"area": "PRAHLADNAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "10, G.F. CAMPS CORNER NR PARAHLADNAGAR GARDEN 100 FT ROAD SATELLITE AHMEDABAD GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Ar4ds9kamaMnGR2fA"
+},
+{
+"area": "MANINAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Jawahar Chowk Cross Road, Maninagar",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/WVyWtNKa3qey8PPu5"
+},
+{
+"area": "VATVA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 6 NIRMAL SAROVAR COMMERCIAL HUB BESIDE IOCL PETROL PUMP VATVA AHMEDABAD GUJARAT 382440",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/VK3zzGk7iqQpUjdCA"
+},
+{
+"area": "RAJKOT (Akashwani Chowk)",
+"city": "RAJKOT",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shanti Heights, GF Shop No. 8, Akashwani Chowk, Near SNK School, Rajkot",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/pkrdoDoB3rxqGtbA8"
+},
+{
+"area": "RAJKOT (Yagnik Road)",
+"city": "RAJKOT",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No.112 shiv complex dr Yagnik Road",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "VIRAMGAM",
+"city": "VIRAMGAM",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO -3 BHAGAT COMPALEX POPAT CHOKDI AHMEDABAD BY PASS ROAD OPP.AARTI HOSPITAL VILLAGE VIRAMGAM, AHMEDABAD GUJARAT-382150",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/mAHs425QXMwcr57LA"
+},
+{
+"area": "MEHSANA-Station Road",
+"city": "MEHSANA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "JAY BHAVANI FASTFOOD-MHESANA STATION ROAD, AHMEDABAD GUJARAT-384001",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "VIRAMGAM",
+"city": "VIRAMGAM",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "MALVAN ROAD ISKON FOOD MALL",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SURAT",
+"city": "SURAT",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GR FLOOR SHOP NO 41 SHRI NILKANT BUSINESS HUB SINGANPORE CAUSWAY ROAD SY-41/1,42,47,99,FP-49 TPS-26 SURAT GUJARAT-395004",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/aVZfBeMhTbcL8GDcA"
+},
+{
+"area": "CHANGODAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "LAXMINARAYAN PETROL PUMP, VILLAGE, CHANGODAR TALUKA SANAND, Ahmedabad, Gujarat-382210",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/q1jCTRBxKEi9t8Zg9"
+},
+{
+"area": "SAYLA",
+"city": "SAYLA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Sr.No.103/3 Shreeji Hotel, Opp Essar Petrol Pump, Near Sayla Char Rasta, NH-47, Sayla Surendranagar, Gujarat-363430",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "MEHSANA WATERPARK",
+"city": "MEHSANA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "7, Indraprast Soc, Opp Petrol Pump, Mehsana Road, Visnagar, Mehsana, Gujarat - 384315",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/hPjuZdcZBcMBX6rD7"
+},
+{
+"area": "GODHRA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "1/89 F NEAR SATLUJ HOTEL, BHURAVAV CHAR RASTA VILLAGE, GODHRA, TALUKA GODHRA, DISTRICT-PANCH MAHALS GODHRA GUJARAT-389001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ptTqQtFT1q3R17HU7"
+},
+{
+"area": "RIVERFRONT (CAFÉ)",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "MERLIN PENTAGON, GF 6, TP 6 FP 228, MAHALAXMI FIVE ROADS, PALDI AHMEDABAD, Ahmedabad, Gujarat, 380013",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Pcw1qMyG6jJRkVe2A"
+},
+{
+"area": "AIRPORT ROAD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "BLOCK NO A/135 PAIKI SINDHI COLONY SARDARNAGAR AHMEDABAD GUJARAT-382475",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/L3FFyE3w92mK8RFr9"
+},
+{
+"area": "SALANGPUR",
+"city": "SALANGPUR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "NILKANTH FOOD COURT OPP MARUTI DHAM MAIN GATE HANUMANJI MANDIR SALANGPUR BOTAD GUJARAT-3824500",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/SB5XdEfeHkyxUFMG7"
+},
+{
+"area": "VISNAGAR",
+"city": "VISNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "BLOCK NO B SHOP NO., 1,2,3,4,5 DWARKESH EMPIRE, TALKA VISNAGAR, DIST. MEHSANA VISNAGAR GUJARAT -384315",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/BJLLg5ZrsVF3qBRa6"
+},
+{
+"area": "MUNDRA",
+"city": "MUNDRA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "MUDRA PL13CGE1 LAXMINARAYAN COMPLEX VILL BAROI TALUKA MUNDRA DIST KACHCHH, Gujarat, 370421",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4sBimzkce7wELN237"
+},
+{
+"area": "NIKOL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "HOP NO 5 TNTC ANJANA CHOWK NIKOL AHMEDABAD GUJARAT-382350",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/AzYXVrQV1aUbXQUp8"
+},
+{
+"area": "GODREJ GARDEN CITY",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G- 10, Swarnim Business Hub1, Opp. GIIS, Near Godrej Garden City, AHMEDABAD Gujarat-382470",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "NARODA-Dehgam",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 25, Naroda Business Hub, Opp Hanshpura Residency, Naroda Dehgam Road,Ahmedabad-382305",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4YcGc48chBffbxfc6"
+},
+{
+"area": "NARODA - SP RING ROAD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No. - 1 Jay Bhavani Naroda Icon Muthiya Toll Tax Near Dashan Hotel Sardar Patel Ring Road Ahmedabad.382330",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "GANDHINAGAR SARITA UDYAN",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "STALL NO. 6 FIVE ELEVEN FOOD COURT NEAR SARITA UDYAN GANDHINAGAR",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "PATDI",
+"city": "PATDI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop no. 26, Varnindra complex,nr. Varnindradham Temple, Patdi Viramgam Road, Patdi-382765",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "MAHUDI",
+"city": "MAHUDI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Hotel Priyanka, Mansarov, Village Ambod, Tal: Mansa, Dist: Gandhinagar, Gujarat - 382845",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/6gmnKhZ3dywHVA3S9"
+},
+{
+"area": "ANKLESHWAR",
+"city": "ANKLESHWAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO-10, NAKSHATRA COMPLEX, NEAR GOLDEN POINT, GIDC ANKLESHWAR 393001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/GZVnvKcuNYn75F5t9"
+},
+{
+"area": "DEESA",
+"city": "DEESA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 9 VILLAGE DEESA,TALUKA DEESA, DIST.BANAS KANTHA-3885535",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4ydWRg4NSi2BfF5y8"
+},
+{
+"area": "VASTRAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "BLOCK-B, SHOP-09, RAGHULEELA RESIDENCY, OPP.TANMAY CHAR RASTA, MAHESHWARI ROAD, NEAR KARNAVATI MALL, VASTRAL, AHMEDABAD-382418",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/VBH3WZtvXvfx6Daz8"
+},
+{
+"area": "ZALOD",
+"city": "ZALOD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "NAN-SALAI, NEAR SANJELI CROSSING ROAD IN BETWEEN ZALOD-LIMDI NH HWY, ZALOD, DAHOD GUJARAT-389170",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NxBGqvQ6ACsmcrBF8"
+},
+{
+"area": "CHANDKHEDA-OLD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "NEW CG ROD,OLD CHANDKHEDA AHMEDABAD",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/gDRqQHKEJ1r9GgvTA"
+},
+{
+"area": "KHEDBRAHMA",
+"city": "KHEDBRAHMA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "IDAR AMBAJI HIGHWAY , UNDAVA , KHEDBRHMA, TALUKA , KHEDBRAHMA DIST , SABARKANTHA GUJARAT- 383255",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/VmZkpSe2JvqEPZp89"
+},
+{
+"area": "GANDHINAGAR-VAVOL",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHIVAY CREATION, A 2 THE SPENTA, UVARSAD ROAD, GANDHINAGAR GUJARAT-382016",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4TPr87ndUbDVbavD7"
+},
+{
+"area": "THOL",
+"city": "THOL",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "AT.THOL, NEAR JAY MATAJI HOTEL,THOL-KADI HIGHWAY ROAD, TA. KADI DIST. MEHESANA GUJARAT-382715",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/f1uQ9TDoGX3dJiLM7"
+},
+{
+"area": "RADHANPUR",
+"city": "RADHANPUR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No G-3 Maruti Plaza Varahi Road Radhanpur-385340",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/hh41b2yz73uYR6uk8"
+},
+{
+"area": "SHILLAJ",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "NARAYAN HOUSE, SHILAJ",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Y1DjB4dLwzCDr67j9"
+},
+{
+"area": "NEHRUNAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Near Nehrunagar Circle, B/S Laxmi Gathiyarath Nehrunagar Cross Road",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/FRsigfbi1V9vofrR9"
+},
+{
+"area": "GOTA-SG Hub",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No. H/3 GF, SG Business Hub, Near By Umiya Campus, SG Highway, Gota Ahmedabad -382481",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "PATAN-3",
+"city": "PATAN",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "New Balaji Fast Food Nanavati Complex Main Bazar Patan Gujarat 384265",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/P3PmAfJxazgYMhkf9"
+},
+{
+"area": "GUMA BOPAL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 11, Kabir Enclave Guma, Bopal Ahmedabad Gujarat-385340",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "RANIP BUS DEPOT",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "FOOD COURT, SHOP NO 7 3rd Floor, ARVED TRANSCUBE PLAZA, RANIP, Ahmedabad, GUJARAT-382480",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/bo3QyNCtWS29mRrt7"
+},
+{
+"area": "HATHIJAN",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 24. Ground Floor, Puspak City Part-2, HATHIJAN, Mahemdavad Road. Ahmedabad Gujarat- 382445",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/iYNiPyjtmJv2KVso8"
+},
+{
+"area": "VIJAPUR",
+"city": "VIJAPUR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No: 2 & 3, Suvidhi Park, Nr. Panjrapole, Vijapur - Himmatnagar Highway, Vijapur-382870",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/aQVkE3smGtBrbAYV8"
+},
+{
+"area": "ANAND",
+"city": "ANAND",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "C-01 PAPPU CENTER CL61899 NEAR VENDOR CHAR RASTA ANAND GUJARAT-388001",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "NEW RANIP",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "K-10 NISHAN PRIDE, OPP. SUWARANA BUNGLOWS, NEW RANIP AHEMDABAD-GUJARAT-382480",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Fnkhtm65oZkBi3Q99"
+},
+{
+"area": "GANDHINAGAR-RELIANCE CIRCLE",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO. 2/A. BOLCK-A, GROUND FLOOR, THE URBENIYA, 5 KUDASAN, GANDHINAGAR - 382421",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/fhBASmZaijoFtnrL6"
+},
+{
+"area": "HIMMATNAGAR",
+"city": "HIMMATNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 4/5 G/F K.B ACRADE SHAH KARJIN CROSS ROAD,N.H HIMMATNAGAR HIMMATNAGAR GUJARAT",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NJPcHfSJmvAxHv9U7"
+},
+{
+"area": "BAGODARA",
+"city": "BAGODARA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SURVEY NO 451 2 NEAR BAGODARA TALL TAX, BAVLA BAGODARA AHMEDABAD GUJARAT-382230",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SWASTIK CHAR RASTA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP-9,GR FLOOR BLOCK-A GANESH PLAZA NR NAVRANGPURA BUS STAND ,NAVRANGPURA",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/qFz5iMrVs7AJe8Mb7"
+},
+{
+"area": "HIMMATNAGAR",
+"city": "HIMMATNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "RIDHAM ENTERPRISE-HIMMATNAGAR SHOP NO GF 14,15,16 AT NH-8, BRAHMANI HEIGHTS NEAR KHODIYAR KATHIYAWADI DHABA VILLAGE KANKROL HIMATNAGAR BANASKANTHA GUJARAT-383001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/eeHqCgWoWPopQEEn8"
+},
+{
+"area": "STADIUM",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-1, MADHUR COMPLEX, OPP. GWALIA SWEET, NEAR STADIUM CROSS ROAD NAVRANGPURA AHMEDABAD GUJARAT-380009",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/A1MQcJZaYpwQPWXE6"
+},
+{
+"area": "MOTERA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO A-G-06 , AADITYA AVENUE NEAR, SAMRUDHU FLATES MOTERA GANDHINAGAR ROAD AHMEDABAD GUJARAT-380005",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/4qcU9WGJg6wwxpUf7"
+},
+{
+"area": "NIRNAYNAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-1 MADHUBAN, B/H VARDHAN TOWER, PRAGATINAGAR TO KK NAGAR ROAD NARANPURA AHMEDABAD GUJARAT-380081",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "CHANDKHEDA - 2",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No GF 20 KB Royal Phoenix Panchslok Cross Road New Chandkheda Ahmedabad Gujarat-382424",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ttAEk7ocGohFR2bNA"
+},
+{
+"area": "KADI (Meghna College)",
+"city": "KADI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "OPP MEGHNA COLLEGE .NANI KADI ROAD,KADI",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/teu9uENFHBoo5Zkc9"
+},
+{
+"area": "MODASA - (Sai)",
+"city": "MODASA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "C101-102 TATVAM ARCADE OPP.CELECTER KACHERI SAMLAJI HIGHWAY MODASA",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/KjyLqH6P4rejrpWv6"
+},
+{
+"area": "BHUYANGDEV",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP-G.F-10, Utsav Elegance, NEAR BHUYANGDEV CROSS ROAD , SOLA ROAD, Ahmedabad, Gujarat, 380061",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/YPuVZpRyQFq1RYQQA"
+},
+{
+"area": "SARDAR PATEL",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop-10 Swasti complex ,Nr. sardar Patel cross Road, Naranpura",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SHAHIBAG",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "KEDAR TOWER OPP. RAJASTHAN HOSPITAL SHAHIBAG",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/QCzMaf7U25gA2bLp9"
+},
+{
+"area": "MEHSANA CITY",
+"city": "MEHSANA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G-26,27, SANSKRUT SHOPPING MALL, OPP. SWAMINARAYAN TEMPLE, MEHSANA, GUJARAT-384002",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/g2L64xbxAQKw5Xtz7"
+},
+{
+"area": "BHAVNAGAR",
+"city": "BHAVNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SARDARNAGAR PL NO 1565 NEAR LOK MILAP BHAVNAGAR GUJARAT 364002",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/tdJccvfFoNy9HmKA9"
+},
+{
+"area": "GANDHINAGAR PDPU CIRCLE",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF SHOP NO-22 ELIXER,OPP.SHRI RANG UPAVAN, VILLAGE KOBA,TALUKA GANDHINAGAR GUJARAT-382007",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "GANDHINAGAR-11",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 6-7,PRESIDENT COMPLEX,SECTOR-11,GANDHINAGAR,382011",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/mjPhdeQtEALft8JU7"
+},
+{
+"area": "IDAR",
+"city": "IDAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO-5,BALAJI COMPLEX,NEAR SAHKARI JEEN,IDAR",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/L3UejbFX35WNXbcS8"
+},
+{
+"area": "NEW NARODA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "HOP NO 6 SHYAM ENCLAVE NEAR SHREE RAM CHOWK OPP. MEVADA GREEN PARTY PLOT, NAVA NARODA AHMEDABAD GUJARAT 382330",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NaNSgFZ3oSxPnSAR7"
+},
+{
+"area": "LIMDI MALL",
+"city": "LIMDI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "LS NO BESIDE U.P. BIHAR HOTEL HIGHWAY, VILLAGE JUNI MORWAD TAL.CHUDA DIS. SURENDRANAGAR GUJARAT-363410",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "LIMDI",
+"city": "LIMDI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Gallops Food Mall Shop No 20 948sq Foot Village Baldana Limbdi Rajkot Ahmadabad Highway",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "DWARKA",
+"city": "DWARKA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHREE DWARAVATI HOTEL, OPP. GOMATIGHAT RELIANCE ROAD DWARKA GUJARAT-361335",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/G5Cgd5rRJAQTEG2n7"
+},
+{
+"area": "MANINAGAR-2",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "1-A, MADHUVAN PARK SOCIETY, OPP. VIJAY PARK, NR. GORS KUVA, MANINAGAR (E), Ahmedabad, Gujarat-380008",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "AMRELI",
+"city": "AMRELI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "NEAR HOTEL SHREE PARAS, OPP. S.T. DEPOT, STATION ROAD, AMRELI - 365601",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/w5ovSfHVSanGTnUV8"
+},
+{
+"area": "ADALAJ",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "009, NIRMAN SATVA, OPP IOC PETROL PUMP, NR SHRINATH SOCIETY, ADALAJ -382421",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/sEx7o7XrtoRfTVFY6"
+},
+{
+"area": "ADANI SHANTIGRAM",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOPER PLAZA SHOP NO.2-3,ADANI SANTIGRAM,S.G.HIGHWAY ROAD,VAISHNADEVI CIRCLE",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "VAISHNODEVI",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "10,JAY BHAVANI VADAPAV, RUNSCAPE COMPLEX, K D HOSPITAL K AAGE, VAISHNODEVI CHAR RASTA",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ouwnHKgcnsb1daP67"
+},
+{
+"area": "PORBANDAR",
+"city": "PORBANDAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "M.G. ROAD, NEAR AARTI SWEET MART, PORBANDAR, GUJARAT-360575",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/NqRG8dccDvi7jbcD6"
+},
+{
+"area": "JODHPUR CHAR RASTA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "M/S Shree Visat Meladi Enterprise Shop No 8 Ratnamani Complex Jodhpur Char Rasta , Nr Star Bazaar, Ahmedabad",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/79kU5dXr6DuXXm6r5"
+},
+{
+"area": "KANBHA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "AT & POST-KANBHA NR BUS STAND VILLAGE KANBHA TA.DASKROI DISTRICT AHMEDABAD GUJARAT-382430",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/pBwZr48hh1yc6SPz9"
+},
+{
+"area": "KALOL",
+"city": "KALOL",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-D40 TIRUPATI EMPIRE E NEAR SHREEJI PARLOUR PANCH VILLAGE KALOL TAH KALOL DIST GANDHINAGAR GUJARAT 382721",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/7bJHNiJJdCQijBxx5"
+},
+{
+"area": "SANAND-BOLGAM",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO. A-6, SHIVDHARA COMPLEX, BOL GAM, TALUKA SANAND DIST. AHMEDABAD GUJARAT-382110",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "JUNAGARH",
+"city": "JUNAGARH",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Raiji Baugh Shopping Centre shop no 9 Moti Baugh road opposite ICICI Bank Junagadh 362001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/eLwqAgHjf4tb3BAY7"
+},
+{
+"area": "PRANTIJ",
+"city": "PRANTIJ",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 23,GROUND FLOOR, OM COMPLEX, DALPUR, PRANTIJ, SABARKANTHA, GUJARAT, 383205",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "HIMMATNAGAR-New",
+"city": "HIMMATNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 13 & 14 Kvit Shopping Moll, Nr. Gayatri Sweet Mart, RTO-Mohitapura Rd., Himatnagar-Vijapur Road, Zahirabad (Savagadha)",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/jhGZdWzDTBaFbo8Q9"
+},
+{
+"area": "VASTRAPUR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO 4,SARDAR CENTER,OPP NEHRU PARK FOUNTAIN, VASTRAPUR AHMEDABAD GUJARAT -380053",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "KHOKHRA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GF-24 TRADE SQUARE, NEAR SAFAL PARISHKAAR, KHOKHRA AHMEDABAD, GUJARAT-380008",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/q5LDZqAwjj8oHVnH8"
+},
+{
+"area": "GANDHINAGAR-16",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "PLOT NO 438, OPP. R WORLD CINEMA, NEAR DCB BANK, SECTOR-16 GANDHINAGAR-382016",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "DABHOI",
+"city": "DABHOI",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SARVYE NO 128/3/2, BLOCK SARVYE NO 157, VILLAGE VEGA, TALUKA DABHOI DIST. VADODARA GUJARAT-390019",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "JAMNAGAR",
+"city": "JAMNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "MADHAV COMPLEX, SHOP NO 21, OPP. BAJRANG DOSA ,PANDIT NEHRU MARG, PATEL COLONY,JAMNAGAR GUJARAT-361008",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Lei8uoch4JWsvVSq5"
+},
+{
+"area": "H.L COLLEGE",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "1, Shivam Complex, Nr H L Commerce College, Navrangpura, Ahmedabad-380009",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/5wnu5ViE518tM37X9"
+},
+{
+"area": "MANDAL",
+"city": "MANDAL",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "AT MANDAL, OOP. MAHATMA MANDIR, NEAR RAMPURA CHAR RASTA-MANDAL GUJARAT 382130",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/aj1iZiKgqw9H2Tgt6"
+},
+{
+"area": "GODREJ CITY ROAD",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "B-11, jay bhavani vadapav krishna heights , jagatpur road, gota",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/mQ4BuB9mU2WKRBnZ6"
+},
+{
+"area": "RADHE CIRCLE",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP-4 RADHE FORTUNE BHAT CIRCLE SP RING ROAD VILL BHAT TAL.GANDHINAGAR DIST GANDHINAGAR",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SHELA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO-1, TURQUOISE BLU, OPP.SARATHYA VILLAGE-SHELA, TAL.-SANAND, DIST. AHMEDABAD GUJARAT-380058",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/TCVgqWVwDdJSrktK9"
+},
+{
+"area": "VASTRAL NEW",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "SHOP NO-8 GROUND FLOOR SATVA MANGALYA NR. PUSHP BUSINESS CAMP, RING ROAD VASTRAL AHMEDABAD GUJARAT-382418",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/c3sepWkZR1BzMYF37"
+},
+{
+"area": "GANDHINAGAR-Sargasan-1",
+"city": "GANDHINAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G-04, SARTHAK THE MALL, SARGASAN CROSS ROAD, VILLAGE SARGASAN, TALUKA, GANDHINAGAR DISTRICT GANDHINAGAR",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/URdwnvpGSciJiSfE8"
+},
+{
+"area": "NEW MANINAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Shop No 5 S P Square Nr Ramol Police Station Ramol CTM Road New Maninagar Ahmedabad 380008",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/i7Nwvc98G1YKjjWL7"
+},
+{
+"area": "BAPUNAGAR",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "G.F SHOP, 02 AVN HOUSE, NR SHYAM SHIKHAR ,CROSS ROAD BAPUNAGAR.AHMEDABAD.-380024",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/SKU6Zp2HiQmXFSi17"
+},
+{
+"area": "PALDI BHATA",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Sahjanand Palace, Bhatta Cross road, Paldi",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SHIVRANJANI",
+"city": "AHMEDABAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "A/5 THE UMIYA VIJAY C H SOC LTD., UMIYA SHOPPING CENTER SHIVRANJANI SATELLITE ROAD AHMEDABAD GUJARAT-380016",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "MALIYA",
+"city": "MALIYA",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "MALIYA HIGHWAY,TALUKA RAJKOT, GUJARAT-363670",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "BHAVNAGAR",
+"city": "BHAVNAGAR",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "GALLOPS FOOD PLAZZA, SHOP NO 122, P1 NH51, VAVDI, TA GOGHA, DIST BHAVNAGAR, GUJARAT-364110",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "NADIAD",
+"city": "NADIAD",
+"state": "GUJARAT",
+"country": "INDIA",
+"address": "Swami Bunglow, Vaniyavad College Road, Nadiyad, Kheda-387001.",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "MUMBAI",
+"city": "MUMBAI",
+"state": "MAHARASHTRA",
+"country": "INDIA",
+"address": "SHOP NO 8 GROUND FLOOR NEELKANT MARKET CO OP.HSG. SOC, M.G. ROAD GHATKOPAR EAST, MUMBAI -400077",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "BANSWARA",
+"city": "BANSWARA",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "G-12 ,13, 14, B-31, Soncoya Solutions Pvt Ltd ,KB Mall, Dahod Road, RIICO Industrial Area, Banswara, Banswara, Rajasthan 327001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Gn36cy6hxnwzbK6g9"
+},
+{
+"area": "BICHHIWARA",
+"city": "BICHHIWARA",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "BICHHIWARA highway Dist.Dungarpur",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "MOUNT ABU",
+"city": "ABU",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "Jay Bhavani Vadapav Opp. Nakki Lake, Mount Abu Sirohi RAJASTHAN Pin.Code 307501",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "SAGWARA",
+"city": "SAGWARA",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "VADIYO KA DHUNGRA OPP KESARIMAL JEWELS SAGWARA DUNGARPUR RAJASTHAN -314025",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "CHITTORGARH",
+"city": "CHITTORGARH",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "BHAGWATI HOTEL C/O BADRI LAL KUMAWAT BUS STAND ROAD CHITTORGARH RAJASTHAN-312001",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "UDAIPUR (COURT CIRCLE)",
+"city": "UDAIPUR",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "HAJARESHAR COLONY MANDIR KE BAHAR OPPOSITE HIMMAT BALA JI MANDIR NEAR COURT CIRCLE UDAIPUR RAJASTHAN",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "UDAIPUR-RK Circle",
+"city": "UDAIPUR",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "R k circle near J F C THAL Opposite. Wine shop Udaipur 313001",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "BARMER",
+"city": "BARMER",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "THE VIP EXPRESS NEAR BY BARMER (BME) RAILWAY STATION BARMER JODHPUR, NORTH WEST RAILWAY RAJASTHAN-344001",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "JODHPUR",
+"city": "JODHPUR",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "SHOP NO H-1/B NEAR LUNI PANCHAYAT SAMITI, MAIN RAL ROAD, JODHPUR RAJASTHAN-382008",
+"hours": "9:00 AM to 9:00 PM",
+"map": ""
+},
+{
+"area": "JALORE RAJASTHAN",
+"city": "JALORE",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "SHOP NO 17 18, GROUND FLOOR GARVEET TOWER BHINMAL ROAD, JALORE Jalore JALORE RAJASTHAN 343001",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/TjtCwT3cp187EgEe7"
+},
+{
+"area": "ABU ROAD",
+"city": "ABU",
+"state": "RAJASTHAN",
+"country": "INDIA",
+"address": "SHOP NO.15-17, ABU CENTRAL, CHECK POST,ABU ROAD, RAJASTHAN-307026",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/zFu4pyUZPQSE48AeA"
+},
+{
+"area": null,
+"city": "AUSTRALIA",
+"state": "AUSTRALIA",
+"country": "AUSTRALIA",
+"address": "2/25 GRIBBLE STREET, GUNGAHLIN, ACT 2912",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/ZxxKMKfDJpZxAffQ8"
+},
+{
+"area": null,
+"city": null,
+"state": "CLAYTON",
+"country": "AUSTRALIA",
+"address": "401 Clayton Road Clayton 3168, Melbourne, Australia",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/b9W58UUhzenktesLA"
+},
+{
+"area": null,
+"city": null,
+"state": "AUSTRALIA",
+"country": "AUSTRALIA",
+"address": "Shop 16 17 Civic Fair Shopping Center,280 Newnham Road,Wishart 4122",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/tCe9qnyAXRRFi76k8"
+},
+{
+"area": null,
+"city": null,
+"state": "ADELAIDE",
+"country": "AUSTRALIA",
+"address": "470a Main North Road, Blair Athol 5084",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/mYqVXgWkCCSfT8nbA"
+},
+{
+"area": null,
+"city": null,
+"state": "SYDNEY",
+"country": "AUSTRALIA",
+"address": "92 Garfield Rd E, Riverstone NSW 2765, Australia",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/qbCEWQZ8xNtkhHfU9"
+},
+{
+"area": null,
+"city": null,
+"state": "SOUTHPORT",
+"country": "AUSTRALIA",
+"address": "Bela Luna Restaurant, 151 Scarborough St, Southport QLD 4215, Australia",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/TGcusxJmj5MMVkLPA"
+},
+{
+"area": null,
+"city": null,
+"state": "WILLIAMS LANDING",
+"country": "AUSTRALIA",
+"address": "Shop 2/89 Overton Rd, Williams Landing VIC 3027, Australia",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/RcC6LyR7mxauPKir5"
+},
+{
+"area": null,
+"city": null,
+"state": "ETOBICOKE",
+"country": "CANADA",
+"address": "1630 Albion Rd, Etobicoke, ON M9V 5H5, Canada",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/9w9HhucuT3DYfh7v5"
+},
+{
+"area": null,
+"city": null,
+"state": "ETOBICOKE",
+"country": "CANADA",
+"address": "12 STENWAY BLVD SUITE 13 ETOBICOKE ONTARIO CANADA M9W 6MS",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/JC9p62spHFssM2LE7"
+},
+{
+"area": null,
+"city": null,
+"state": "LONDON",
+"country": "CANADA",
+"address": "170 Adelaide St N, London, ON N6B3G8",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/iVeFLc6PYUaiT7HX9"
+},
+{
+"area": null,
+"city": null,
+"state": "SCARBROUGH",
+"country": "CANADA",
+"address": "836 Markham Road Scarbrough, ON M1H 2Y2",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/n3sqbgGBA8joGgfe7"
+},
+{
+"area": null,
+"city": null,
+"state": "QUEBEC",
+"country": "CANADA",
+"address": "1224 Rue Bishop, Montreal QC S3G 2E3",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/t8S27wSmYmrtnBzU9"
+},
+{
+"area": null,
+"city": null,
+"state": "KITCHENER",
+"country": "CANADA",
+"address": "1400 Weber St E, Kitchener ON N2A 3Z8",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/nwD56DBZ22TyFmxG9"
+},
+{
+"area": null,
+"city": null,
+"state": "OSHAWA",
+"country": "CANADA",
+"address": "1180 Simcoe St N, Oshawa, ON L1G4W8",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/WNUtsmhye2wNoDeFA"
+},
+{
+"area": null,
+"city": null,
+"state": "WINDSOR",
+"country": "CANADA",
+"address": "1640 Huron Church Rd, Windsor, ON N9B 3M4, Canada",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/PiaRbiVxspW7sZAD7"
+},
+{
+"area": null,
+"city": null,
+"state": "HAMILTON",
+"country": "CANADA",
+"address": "1059 Upper James St Hamilton, ON L9C 3A6",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/n5uGAvLHXCzeHPvr6"
+},
+{
+"area": null,
+"city": null,
+"state": "EDISON",
+"country": "USA",
+"address": "1691, OAK TRESS, ROAD EDISON, NJ, 08820",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/Tv64s4b3uGRSxLma8"
+},
+{
+"area": null,
+"city": null,
+"state": "DECATUR",
+"country": "USA",
+"address": "KROGER PLAZA, 2883 N, DECATUR RD SUITE A, DECATUR, GA 30033",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/X918oweBc7ynsjKaA"
+},
+{
+"area": null,
+"city": null,
+"state": "MECHANICSBURG",
+"country": "USA",
+"address": "5510, Carlisle Pike, Mechanicsburg, PA 17050",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/tqae4ha7M4MVtbu99"
+},
+{
+"area": null,
+"city": null,
+"state": "SUWANEE",
+"country": "USA",
+"address": "3230 Caliber St. Suite A-104, Suwanee, GA 30024",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/LNyxHqep1pWfxV3JA"
+},
+{
+"area": null,
+"city": null,
+"state": "HOFFMAN ESTATE",
+"country": "USA",
+"address": "1165 Barrington Road, Hoffman Eastate, IL60169",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/82m4KibvkifdP2oX9"
+},
+{
+"area": null,
+"city": null,
+"state": "HOUTSON",
+"country": "USA",
+"address": "6688, Southwest Fwy, Houston, TX 77074",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/9hcc4uroiPrRqrfD6"
+},
+{
+"area": null,
+"city": null,
+"state": "BAKERSFIELD",
+"country": "USA",
+"address": "5760 Stine Road Bakersfield, CA 93313",
+"hours": "Sat-Sun: 11:00 AM to 10:00 PM",
+"map": "https://maps.app.goo.gl/RVBWhshCGAzagA518"
+},
+{
+"area": null,
+"city": null,
+"state": "TAMPA",
+"country": "USA",
+"address": "1251 E FOWLER AVE STE B2, TAMPA FL 33612",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/GThRkhyZETnwSv7b8"
+},
+{
+"area": null,
+"city": null,
+"state": "BENSALEM",
+"country": "USA",
+"address": "1953 Street Rd, Bensalem, PA 19020, United States",
+"hours": "9:00 AM to 9:00 PM",
+"map": "https://maps.app.goo.gl/yx5JfpHPgm1WqtCL7"
+},
+{
+"area": null,
+"city": null,
+"state": "INDIANAPOLIS",
+"country": "USA",
+"address": "5025 E 82nd St #1200, Indianapolis, IN 46250, United States",
+"hours": "© Jay Bhavani Vadapav. All rights reserved.",
+"map": "https://maps.app.goo.gl/CTXqnJk2PfXSGt1b6"
+}
+],
+"timeline": [
+{
+"year": "2024",
+"img": "/img/our-story/jay-bhavani-2024-1.webp",
+"text": "With 195+ outlets across India, Canada, the USA, and Australia, Jay Bhavani aims to exceed 200 by March 2025 while expanding into the UK and New Zealand. Its Export Division has shipped 50+ reefer containers globally."
+},
+{
+"year": "2023",
+"img": "/img/our-story/jay-bhavani-2023-1.webp",
+"text": "Jay Bhavani entered the USA in May 2023 and now operates 8 outlets, with more coming soon. Evolving beyond Vadapav, Jay Bhavani serves diverse South and North Indian fast-food delicacies, delighting customers with authentic flavors."
+},
+{
+"year": "2022",
+"img": "/img/our-story/jay-bhavani-2022-1.webp",
+"text": "Inspired by the café trend, Mr. Kishansingh Rajput launched premium Jay Bhavani outlets in January 2022 under \"Jay Bhavani Snacks Bar & Café\" in Ahmedabad. Jay Bhavani's Canada success led to its first Australian outlet in Canberra by December 2022."
+},
+{
+"year": "2021",
+"img": "/img/our-story/jay-bhavani-2021-1.webp",
+"text": "Amidst the global challenges of the COVID-19 pandemic, Jay Bhavani marked a significant milestone in October 2021 by opening its first international outlet in Etobicoke, Toronto, Canada."
+},
+{
+"year": "2020",
+"img": "/img/our-story/jay-bhavani-2020-1.webp",
+"text": "The COVID-19 pandemic caused Jay Bhavani to drop below the 150-outlet mark, but the brand resiliently bounced back, breaking boundaries beyond India to embark on its international journey."
+},
+{
+"year": "2019",
+"img": "/img/our-story/jay-bhavani-2019-2.webp",
+"text": "Jay Bhavani Vadapav had surpassed the 151-outlet milestone and was rapidly expanding."
+},
+{
+"year": "2018",
+"img": "/img/our-story/jay-bhavani-2018-1.webp",
+"text": "Jay Bhavani Vadapav ventured beyond Gujarat by opening its first out-of-state outlet, marking its 101st location in Udaipur, Rajasthan."
+},
+{
+"year": "2015",
+"img": "/img/our-story/jay-bhavani-2015-1.webp",
+"text": "A team of professionals joined forces to propel the Jay Bhavani Vadapav brand to new heights."
+},
+{
+"year": "2014",
+"img": "/img/our-story/jay-bhavani-2014-1.webp",
+"text": "The year 2014 marked a significant milestone for Jay Bhavani Vadapav, as the company took its first big leap by transitioning its company-owned outlet in Palanpur to a franchise for the very first time."
+},
+{
+"year": "2012",
+"img": "/img/our-story/jay-bhavani-2012-1.webp",
+"text": "Following the resounding success of the Anandnagar outlet, Jay Bhavani expanded further by opening four additional outlets in Bopal, Bodakdev, Vastrapur, and Gurukul."
+},
+{
+"year": "2008",
+"img": "/img/our-story/jay-bhavani-2008-1.webp",
+"text": "Among four brothers, Mr. Kishan Singh Rajput opened his own outlet in Anand Nagar, a move that made history and played a pivotal role in building the brand to the renowned level it enjoys today."
+},
+{
+"year": "2004",
+"img": "/img/our-story/jay-bhavani-2004-1.webp",
+"text": "What began as a roadside cart evolved into the opening of Jay Bhavani Vadapav’s first outlet near GLS College in Ahmedabad, marking the start of a never-ending journey for the brand."
+},
+{
+"year": "2000",
+"img": "/img/our-story/jay-bhavani-2000-1.webp",
+"text": "Adopted a business strategy by acquiring the vadapav business van of a competitor who had set up right across from their location."
+},
+{
+"year": "1998",
+"img": "/img/our-story/jay-bhavani-1998-1.webp",
+"text": "In the spring of 1998, Jay Bhavani first opened their food cart at Municipal Market, C.G.Road, Ahmedabad, with a capital investment of Rs. 5,000, where they sold Vadapav at Rs.4 per piece."
+}
+]
+}
