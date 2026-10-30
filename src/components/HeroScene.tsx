@@ -48,7 +48,7 @@ export default function HeroScene() {
     const rim = new THREE.DirectionalLight(0x4f7bff, 1.5); rim.position.set(6, 1, -4); scene.add(rim);
 
     const MOB0 = window.innerWidth < 900;
-    const N = FEATURED.length, R = MOB0 ? 3.1 : 4.4, SEG = window.innerWidth < 700 ? 32 : 64;
+    const N = FEATURED.length, R = MOB0 ? 3.1 : 5.0, SEG = window.innerWidth < 700 ? 32 : 64;
     const dishes: THREE.Mesh[] = [];
     let revealAt = 0;
     const reveal = () => { revealAt = performance.now(); renderer.domElement.style.transition = "opacity .6s ease"; renderer.domElement.style.opacity = "1"; };
@@ -103,9 +103,9 @@ export default function HeroScene() {
       renderer.setSize(w, h); camera.aspect = w / h; camera.updateProjectionMatrix();
       const mob = w < 900;
       const halfH = Math.tan(THREE.MathUtils.degToRad(camera.fov / 2)) * 11, halfW = halfH * camera.aspect;
-      tilt = mob ? 0.62 : 0.16; world.rotation.z = mob ? -0.1 : 0;                       // phones/tablets: view the ring from above + a slight slant so every dish is visible
+      tilt = mob ? 0.62 : 0.34; world.rotation.z = mob ? -0.1 : -0.09;                       // phones/tablets: view the ring from above + a slight slant so every dish is visible
       if (mob) { world.position.set(0, halfH * 0.46, 0); world.scale.setScalar(Math.min(0.62, (halfW * 0.9) / (R + 1.7))); }
-      else { world.position.set(halfW * 0.47, -0.05, 0); world.scale.setScalar(Math.min(0.98, (halfW * 0.5 * 0.9) / 6.5, (halfH * 0.9) / 3.7)); }
+      else { world.position.set(halfW * 0.5, -0.05, 0); world.scale.setScalar(Math.min(0.9, (halfW * 0.56 * 0.9) / 7.0, (halfH * 0.95) / 3.8)); }
     };
     layout();
     const ro = new ResizeObserver(layout); ro.observe(el);
@@ -154,7 +154,7 @@ export default function HeroScene() {
         d.position.y = d.userData.base + Math.sin(t * 1.1 + d.userData.a * 3) * 0.12;
         const front = THREE.MathUtils.clamp((wp.z - world.position.z + R) / (2 * R), 0, 1);
         const born = revealAt ? Math.min(1, (now - revealAt - idx * 70) / 800) : 0, pop = born <= 0 ? 0 : 1 - Math.pow(1 - born, 3);
-        const target = (d === hover ? 1.12 : (MOB0 ? 0.62 : 0.74) + front * (MOB0 ? 0.3 : 0.4)) * pop;
+        const target = (d === hover ? 1.12 : (MOB0 ? 0.62 : 0.6) + front * (MOB0 ? 0.3 : 0.3)) * pop;
         d.userData.s += (target - d.userData.s) * 0.14;
         if (!gsap.isTweening(d.scale)) d.scale.setScalar(Math.max(0.001, d.userData.s));
         (d.material as THREE.MeshPhongMaterial).color.setScalar(0.62 + front * 0.38);
